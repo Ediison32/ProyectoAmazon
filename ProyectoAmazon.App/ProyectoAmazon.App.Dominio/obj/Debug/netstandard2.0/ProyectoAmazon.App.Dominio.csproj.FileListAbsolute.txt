@@ -1,0 +1,9 @@
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\bin\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.deps.json
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\bin\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.dll
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\bin\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.pdb
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\obj\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.csprojAssemblyReference.cache
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\obj\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.AssemblyInfoInputs.cache
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\obj\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.AssemblyInfo.cs
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\obj\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.csproj.CoreCompileInputs.cache
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\obj\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.dll
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Dominio\obj\Debug\netstandard2.0\ProyectoAmazon.App.Dominio.pdb

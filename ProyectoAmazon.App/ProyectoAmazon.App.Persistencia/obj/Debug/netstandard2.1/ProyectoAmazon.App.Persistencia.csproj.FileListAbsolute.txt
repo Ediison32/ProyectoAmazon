@@ -1,0 +1,12 @@
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\obj\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.csprojAssemblyReference.cache
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\obj\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.AssemblyInfoInputs.cache
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\obj\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.AssemblyInfo.cs
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\obj\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\bin\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.deps.json
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\bin\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.dll
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\bin\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.pdb
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\bin\Debug\netstandard2.1\ProyectoAmazon.App.Dominio.dll
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\bin\Debug\netstandard2.1\ProyectoAmazon.App.Dominio.pdb
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\obj\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.csproj.CopyComplete
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\obj\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.dll
+D:\Mintic_programas_Ciclo_3\Proyecto_Amazon\ProyectoAmazon.App\ProyectoAmazon.App.Persistencia\obj\Debug\netstandard2.1\ProyectoAmazon.App.Persistencia.pdb

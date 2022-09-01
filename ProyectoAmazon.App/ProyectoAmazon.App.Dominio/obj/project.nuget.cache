@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4S/geF86mQTJzm2SQThG5YzdvZN0zvxPrhfYwIXVm04h7egv5yi8gK64zD302TCwa1Emz6bK+MLuvFeE0i2dA==",
+  "success": true,
+  "projectFilePath": "D:\\Mintic_programas_Ciclo_3\\Proyecto_Amazon\\ProyectoAmazon.App\\ProyectoAmazon.App.Dominio\\ProyectoAmazon.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
