@@ -1,18 +1,28 @@
-
-
 @page
-@model ProyectoAmazon.App.Frontend.Pages.FormEncomiendaModel
+@model ProyectoCiclo3.App.Frontend.Pages.FormEncomiendaModel
 @{
 }
- 
+ <!-- Maquetacion la pagina Encomineda-->
 <div class="text-center">
-<form method=”POST”>
-  <label for="Descripcion" class="form-label">Descripcion:</label>
-  <input type="text" class="form-control" id="Descripcion" name="Descripcion" placeholder="Descripcion">
-  <label for="edad" class="form-label">Edad:</label>
-  <input type="number" class="form-control" id="edad" name="edad" placeholder="Edad">
-  <label for="email" class="form-label">Email:</label>
-  <input type="email" class="form-control" id="email" name="email" placeholder="Email">
+<form method="POST">
+  <label for="descripcion" class="form-label">descripcion:</label>
+  <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="descripcion">
+  <label for="peso" class="form-label">peso:</label>
+  <input type="number" class="form-control" id="peso" name="peso" placeholder="peso">
+  <label for="tipo" class="form-label">tipo:</label>
+  <select name="tipo" id="tipo" class="form-control">
+    <option value="">-</option>
+    <option value="Ropa">Ropa</option>
+    <option value="Alimentos">Alimentos</option>
+    <option value="Electronicos">Electro</option>
+  </select>
+  <label for="presentacion" class="form-label">presentacion:</label>
+  <select name="presentacion" id="presentacion" class="form-control">
+    <option value="">-</option>
+    <option value="Sobre">Sobre</option>
+    <option value="Caja">Caja</option>
+    <option value="Guacal">Guacal</option>
+  </select>
   <hr>
   <button type="submit" class="btn btn-success">Enviar</button>
 </form>
