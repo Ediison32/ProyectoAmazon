@@ -5,7 +5,7 @@ using System;
 
 namespace proyectoAmazon.App.Dominio{
 
-    public class Encomienda{
+    public class Encomiendas{
         
         public int id { get; set;}
         public string descripcion { get; set;}

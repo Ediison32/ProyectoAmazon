@@ -9,7 +9,7 @@ namespace proyectoAmazon.App.Dominio{
         public Usuario destino {get; set;}
         public DateTime fecha  {get; set;}
         public string hora {get; set;}
-        public Encomienda encomienda {get; set;}
+        public Encomiendas encomienda {get; set;}
 
     }
 

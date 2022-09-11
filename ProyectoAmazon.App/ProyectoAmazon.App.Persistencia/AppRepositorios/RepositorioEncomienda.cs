@@ -1,26 +1,37 @@
 using System.Collections.Generic;
-using ProyectoAmazon.App.Dominio;
+using ProyectoAmazon.App.Dominio.Encomienda;
 using System.Linq;
 using System;
+
  
+/*
+public class Encomienda{
+        
+    public int id { get; set;}
+    public string descripcion { get; set;}
+    public int peso {get; set;}
+    public string tipo {get; set;}
+    public string presentacion {get; set;}
+} */
+
 namespace ProyectoAmazon.App.Persistencia.AppRepositorios
 {
     public class RepositorioEncomienda
     {
-        List<Encomienda> Encomienda;
+        List<Encomiendas> encomiendas;
  
-    public RepositorioEncomienda()
+        public RepositorioEncomienda()
         {
-            Encomienda= new List<Encomienda>()
+            encomiendas= new List<Encomiendas>()
             {
-                new Encomienda{id=1,descriopcion="Camiseta",        peso= 100,   tipo= "ropa",        presentacion= "caja"},
-                new Encomienda{id=2,descriopcion="Disco Duro",      peso= 200,   tipo= "Electronico", presentacion= "caja"},
-                new Encomienda{id=3,descriopcion="Destornilladores",peso= 13,    tipo= "Electronico", presentacion= "caja"}
+                new Encomiendas{id=1,descriopcion="Camiseta",        peso= 100,   tipo= "ropa",        presentacion= "caja"},
+                new Encomiendas{id=2,descriopcion="Disco Duro",      peso= 200,   tipo= "Electronico", presentacion= "caja"},
+                new Encomiendas{id=3,descriopcion="Destornilladores",peso= 13,    tipo= "Electronico", presentacion= "caja"}
  
             };
         }
- 
-        public IEnumerable<Encomienda> GetAll()  //   *GetAll()* retorna todos  los registros que estan en las ecomiendas
+        
+        public IEnumerable<Encomiendas> GetAll()  //   *GetAll()* retorna todos  los registros que estan en las ecomiendas
         {
             return Encomienda;
         }
@@ -30,4 +41,5 @@ namespace ProyectoAmazon.App.Persistencia.AppRepositorios
             return Encomienda.SingleOrDefault(b => b.id == id);  // * SingleOrDefault* retorna un elemento de una lista 
         }
     }
+
 }

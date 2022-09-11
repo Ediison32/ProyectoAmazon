@@ -22,11 +22,7 @@ namespace ProyectoAmazon.App.Frontend.Pages
 
         public void OnGet()
         {
-<<<<<<< HEAD
             Encomieda=repositorioEncomieda.GetAll();
-=======
-            Encomiendas=repositorioEncomiendas.GetAll();
->>>>>>> 3bd0c21de9008240893dfa68495602d9bf7ed625
         }
     }
 }
